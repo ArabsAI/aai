@@ -1,6 +1,6 @@
 # aai
 
-<img align="right" src="assets/aai.png">
+<img align="right" src="assets/aai.jpg">
 
 ML Research 🪼 ❤️ 🌊
 
